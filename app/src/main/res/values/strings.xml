@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipMe</string>
+    <string name="enter_amount_here">Enter Amount Here:</string>
+    <string name="_10">10%</string>
+    <string name="_15">15%</string>
+    <string name="_20">20%</string>
+    <string name="enter_custom_tip">Enter Custom Tip</string>
+    <string name="reset">Reset</string>
+</resources>
